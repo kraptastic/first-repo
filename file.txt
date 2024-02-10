@@ -1,1 +1,2 @@
 this is my second attempt using Vi editor, linux on chromebook. feb 10 2024.
+this is the second line of the file, added feb 10 2024.
